@@ -48,9 +48,6 @@
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,059669,047857,064e3b&height=180&section=header&text=Md%20Mahbub%20Alom&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20ML%20%26%20AI%20Enthusiast&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
-
   <!-- Dynamic Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Mahbub+Alom;Full-Stack+Developer+%26+Software+Engineer;ML+%26+AI+Enthusiast;Building+Intelligent+AI+%26+Modern+Web+Apps" alt="Typing SVG Banner" />
 
@@ -120,8 +117,7 @@ Open_to: Software Engineering Roles, ML/AI Projects, Tech Collaborations
 
 ---
 
-<!-- Footer Banner -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064e3b,047857,059669,10b981&height=100&section=footer" width="100%" alt="Footer Banner" />
   <p><sub>Designed with passion by <a href="https://github.com/mahbub203">Md Mahbub Alom</a> • Let's build impactful software together!</sub></p>
 </div>
