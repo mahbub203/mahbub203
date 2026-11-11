@@ -101,13 +101,13 @@ passions: [Full-Stack Web, GenAI Solutions, Scalable Cloud Systems]
 
 ---
 
-### 🐍 Contribution Activity
+### 🎮 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahbub203/mahbub203/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahbub203/mahbub203/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/mahbub203/mahbub203/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph.svg?v=2">
+    <img alt="Pacman Contribution Activity" src="https://raw.githubusercontent.com/zubairprince111/zubairprince111/output/pacman-contribution-graph-dark.svg?v=2" />
   </picture>
 </div>
 
