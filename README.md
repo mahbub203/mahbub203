@@ -79,11 +79,11 @@
 ### 🚀 About Me
 
 ```yaml
-name: Md Mahbub Alom
-role: Full-Stack Developer & Software Engineer
-interests: [Full-Stack Web Development, Machine Learning, AI Systems, Cloud Services]
-location: Dhaka, Bangladesh
-open_to: [Software Engineering Roles, ML/AI Projects, Tech Collaborations]
+Name: Md Mahbub Alom
+Role: Full-Stack Developer & Software Engineer
+Interests: Full-Stack Web Development, Machine Learning, AI Systems, Cloud Services
+Location: Dhaka, Bangladesh
+Open_to: Software Engineering Roles, ML/AI Projects, Tech Collaborations
 ```
 
 - 💡 **Engineering Mindset:** Crafting responsive, scalable, and intelligent applications with clean architecture and modern development practices.
