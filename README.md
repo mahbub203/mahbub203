@@ -1,12 +1,15 @@
 <div align="center">
 
-  <!-- Dynamic Typing Title -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,059669,047857,064e3b&height=180&section=header&text=Abdullah%20Al%20Jubair%20Prince&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20Web%20Architect&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
+  <!-- Dynamic Typing SVG -->
   <a href="https://alzubair.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Jubair+Prince;Full-Stack+Developer+%26+Software+Engineer;1st+Runner-Up+%40+IUBAT+Technocrats+V.2+%F0%9F%8F%86;Building+Next-Gen+AI+%26+Full-Stack+Web+Apps" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Jubair+Prince;Full-Stack+Developer+%26+Software+Engineer;1st+Runner-Up+%40+IUBAT+Technocrats+V.2+%F0%9F%8F%86;Building+Intelligent+AI+%26+Scalable+Web+Apps" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Software Engineer • AI Applications • Problem Solver</strong><br>
+    <strong>Full-Stack Software Engineer • AI Applications • Tech Leader</strong><br>
     📍 Dhaka, Bangladesh
   </p>
 
@@ -34,17 +37,18 @@
 
 ```yaml
 name: Abdullah Al Jubair Prince
-focus: Modern Full-Stack Web Architecture & AI-Driven Applications
+role: Full-Stack Engineer & AI Innovator
+focus: Modern Full-Stack Systems, AI Applications & Clean Architecture
 achievements:
   - 🏆 1st Runner-Up — IUBAT National Innovation Competition 2024 (Technocrats V.2)
   - 🎓 Web Engineering Capstone Project Lead
-passions: [Full-Stack Development, AI Integration, Clean Code Architecture]
+passions: [Full-Stack Web, GenAI Solutions, Scalable Cloud Systems]
 ```
 
-- 💡 **Engineering Philosophy:** Building responsive, human-centric, high-performance web systems with clean architecture.
-- 🔭 **Current Focus:** Next.js 15, TypeScript, Google GenAI/Genkit, ASP.NET Core, and scalable backend workflows.
-- 🤝 **Open for:** Software Engineering roles, collaborative innovation, and hackathon challenges.
-- 💬 **Ask me about:** React/Next.js, Tailwind CSS, System Analysis & Design, AI workflows, and Full-Stack development.
+- 💡 **Philosophy:** Building reliable, human-centric, high-performance web products with clean maintainable code.
+- 🔭 **Current Focus:** Next.js 15, TypeScript, Google GenAI / Genkit, ASP.NET Core MVC, and Modern Cloud Pipelines.
+- 🤝 **Open for:** Software Engineering opportunities, high-impact collaborations, and startup innovations.
+- 💬 **Ask me about:** React / Next.js, Tailwind CSS, System Analysis & Design, AI workflows, and Full-Stack development.
 
 ---
 
@@ -76,7 +80,7 @@ passions: [Full-Stack Development, AI Integration, Clean Code Architecture]
 | :--- | :--- | :---: | :---: |
 | 🌾 **KrishiBondhu AI** | **1st Runner-Up @ IUBAT Technocrats V.2** — AI-powered agricultural assistant with multimodal plant disease detection & bilingual voice advisor. | `Next.js 15` `Genkit` `TypeScript` | [View Repo](https://github.com/mahbub203/KrishiBondhu-Ai) |
 | 🛡️ **SMS Shield PRO** | Intelligent SMS security, threat detection, and authorized automation platform. | `Python` `TypeScript` | [View Repo](https://github.com/mahbub203/sms-shield-pro) |
-| 🏥 **Hospital Management System** | Comprehensive enterprise healthcare management system designed with ASP.NET Core MVC. | `C#` `ASP.NET Core` `MVC` | [View Repo](https://github.com/mahbub203/Hospital-Management-System) |
+| 🏥 **Hospital Management System** | Enterprise healthcare management platform built with ASP.NET Core MVC. | `C#` `ASP.NET Core` `MVC` | [View Repo](https://github.com/mahbub203/Hospital-Management-System) |
 | 🎮 **Slap My Enemy** | AI-powered interactive 2D/3D stress relief browser game with custom scenarios. | `TypeScript` `Web Game` | [View Repo](https://github.com/mahbub203/slap-my-enemy) |
 | 🛒 **Bour-Bazar** | Digital family household shopping, smart accounting, and budget management app. | `TypeScript` `FullStack` | [View Repo](https://github.com/mahbub203/bour-Bazar) |
 | 🩸 **Blood Donation Network** | Emergency blood donation coordination and donor management system. | `FullStack` `Web App` | [View Repo](https://github.com/mahbub203/blood-donation-management-system) |
@@ -86,12 +90,13 @@ passions: [Full-Stack Development, AI Integration, Clean Code Architecture]
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mahbub203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub203&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Streak Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahbub203&theme=tokyonight" alt="Profile Details" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=mahbub203&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e" alt="Top Languages" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahbub203&theme=tokyonight" alt="Most Commit Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahbub203&theme=tokyonight" alt="GitHub Stats Card" />
 </div>
 
 ---
@@ -108,6 +113,8 @@ passions: [Full-Stack Development, AI Integration, Clean Code Architecture]
 
 ---
 
+<!-- Footer Banner -->
 <div align="center">
-  <sub>Built with passion by <a href="https://alzubair.me">Abdullah Al Jubair Prince</a> • Let's connect and create impact!</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064e3b,047857,059669,10b981&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <p><sub>Designed with passion by <a href="https://alzubair.me">Abdullah Al Jubair Prince</a> • Let's build impactful software together!</sub></p>
 </div>
